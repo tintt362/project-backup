@@ -1,0 +1,9 @@
+Performance Log
+================
+Frame: 100, CPU: 5.0%, RAM: 80.0%
+Frame: 200, CPU: 2.9%, RAM: 79.9%
+Frame: 300, CPU: 2.7%, RAM: 79.9%
+Frame: 400, CPU: 4.4%, RAM: 79.9%
+Frame: 500, CPU: 19.1%, RAM: 80.0%
+Frame: 600, CPU: 6.5%, RAM: 80.0%
+Total execution time: 22.223238706588745 seconds
